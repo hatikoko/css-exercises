@@ -59,5 +59,6 @@ a {
 
 ul {
   display: flex;
+  gap: 16px;
   list-style-type: none;
 }
